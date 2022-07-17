@@ -29,6 +29,7 @@ body {
 form input {
   border: none;
   background: transparent;
+  outline: none;
 }
 
 #login-form {
